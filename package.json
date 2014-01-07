@@ -1,5 +1,5 @@
 {
-  "name": "excel",
+  "name": "excel-multi",
   "version": "0.0.4",
   "description": "Web and node.js spreadsheet library. Supports xlsx, csv, tsv (or any simple delimited file) for now.",
   "main": "excelParser.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trevordixon/excel.js"
+    "url": "https://github.com/northwind/excel.js"
   },
   "keywords": [
     "excel",
